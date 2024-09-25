@@ -1,8 +1,20 @@
-# React + Vite
+# UTDFreebies 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was developed during an intensive 7-hour workshop (ACM Dev Day) in preparation for HackUTD. The goal was to develop an engaging application that connects UTD students with exciting freebies!
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack 🖥️
+
+- **Frontend:** HTML, Tailwind CSS, React.js
+- **Backend:** Node.js
+  
+
+## Future Goals 🎯
+
+- Enhance the user interface for a better user experience 
+- Implement a  backend for features like authentication
+- Embed a form for users to bid for freebies
+
+## Credits 🙌
+
+A special thanks to [Joshua Das](https://github.com/dasjoshua/freebies) for providing the base template for building the web app.
