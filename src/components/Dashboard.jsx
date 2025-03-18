@@ -8,9 +8,9 @@ function Dashboard() {
     const [items, setItems] = useState(data)
   return (
       <div>
-          {items.map((item, index) =>(
+          {items.map((item) =>(
             <FeaturedItem
-                key={index}
+                key={item.id}
                 img={item.img}
                 name={item.name}
                 interested={item.interested}
